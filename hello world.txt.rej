@@ -1,0 +1,7 @@
+diff a/hello world.txt b/hello world.txt	(rejected hunks)
+@@ -2,2 +2,3 @@
+\ No newline at end of file
++hello world
+ 
+ hello china
+\ No newline at end of file
